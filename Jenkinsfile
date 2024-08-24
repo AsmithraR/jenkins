@@ -4,7 +4,7 @@ pipeline {
     environment {
         DIRECTORY_PATH = '/path/to/code'
         TESTING_ENVIRONMENT = 'Staging'
-        PRODUCTION_ENVIRONMENT = 'YourName'
+        PRODUCTION_ENVIRONMENT = 'Asmithra'
     }
     
     stages {
